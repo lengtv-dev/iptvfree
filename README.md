@@ -28,9 +28,10 @@
 
 # https://iptv36.vercel.app/epg.xml
 
----
+https://dl.dropbox.com/scl/fi/5cxw3qfjz7uo3g6d0s99h/asian.m3u?rlkey=xfeg7ldyvdwgb2qwc1jrvxqsz&st=ivykkmnc&dl=0
 
 ## Recommended App
 
 - [Televizo](https://files.televizo.net/televizo-default.apk) (Android/ATV)
 - [PotPlayer](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) (Windows)
+
