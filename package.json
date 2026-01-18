@@ -1,5 +1,5 @@
 {
-  "name": "iptv36",
+  "name": "iptvfree",
   "version": "1.0.0",
   "description": "Thai IPTV Playlist & XMLTV EPG",
   "repository": "https://github.com/krittawitst/iptv36.git",
@@ -17,4 +17,5 @@
     "lodash": "^4.17.21",
     "twitch-m3u8-jeanouina": "^1.2.4"
   }
+
 }
